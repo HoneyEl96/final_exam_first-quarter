@@ -1,0 +1,15 @@
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\bin\Debug\net7.0\final_exam_first-quarter.exe
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\bin\Debug\net7.0\final_exam_first-quarter.deps.json
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\bin\Debug\net7.0\final_exam_first-quarter.runtimeconfig.json
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\bin\Debug\net7.0\final_exam_first-quarter.dll
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\bin\Debug\net7.0\final_exam_first-quarter.pdb
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\obj\Debug\net7.0\final_exam_first-quarter.csproj.AssemblyReference.cache
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\obj\Debug\net7.0\final_exam_first-quarter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\obj\Debug\net7.0\final_exam_first-quarter.AssemblyInfoInputs.cache
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\obj\Debug\net7.0\final_exam_first-quarter.AssemblyInfo.cs
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\obj\Debug\net7.0\final_exam_first-quarter.csproj.CoreCompileInputs.cache
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\obj\Debug\net7.0\final_exam_first-quarter.dll
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\obj\Debug\net7.0\refint\final_exam_first-quarter.dll
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\obj\Debug\net7.0\final_exam_first-quarter.pdb
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\obj\Debug\net7.0\final_exam_first-quarter.genruntimeconfig.cache
+D:\Docket\gb\work with git\с#\final_exam_first-quarter\obj\Debug\net7.0\ref\final_exam_first-quarter.dll
